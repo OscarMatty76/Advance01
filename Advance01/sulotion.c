@@ -9,7 +9,7 @@ int* powerArray(int n);
 
 void main()
 	{
-		
+		printf("idk what im doing...");
 	}
 
 
