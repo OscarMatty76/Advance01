@@ -9,8 +9,9 @@ int* powerArray(int n);
 
 void main()
 	{
-		printf("idk what im doing...");
-		printf("Yes I Do!");
+		//printf("idk what im doing...");
+		
+		printf("No You Dont!");
 	}
 
 
