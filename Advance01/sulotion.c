@@ -12,6 +12,7 @@ void main()
 		//printf("idk what im doing...");
 		
 		printf("No You Dont!");
+		printf("Shut Up!");
 	}
 
 
