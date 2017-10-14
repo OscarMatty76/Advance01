@@ -16,6 +16,7 @@ void main()
 		printf("No You Shut Up!");
 	
 		printf("Hay Its Me Mario!");
+		printf("Its Wario Too!");
 	}
 
 
