@@ -13,6 +13,10 @@ void main()
 		
 		printf("No You Dont!");
 		printf("Shut Up!");
+ KatanMichael-patch-1
+
+		printf("No You Shut Up!");
+ KatanMichael-patch-1-1
 	}
 
 
